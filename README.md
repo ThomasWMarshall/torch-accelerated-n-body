@@ -1,4 +1,4 @@
-# torch-accelerated-n-body
+# PyTorch Accelerated N-Body
 
 This isn't intended to be a _good_ n-body simulation.
 
